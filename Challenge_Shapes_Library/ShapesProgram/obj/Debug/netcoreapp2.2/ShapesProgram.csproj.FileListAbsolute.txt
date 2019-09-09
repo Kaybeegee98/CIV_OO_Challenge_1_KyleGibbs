@@ -1,0 +1,14 @@
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\ShapesProgram.deps.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\ShapesProgram.runtimeconfig.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\ShapesProgram.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\ShapesProgram.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\ShapesProgram.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\ShapesProgram\obj\Debug\netcoreapp2.2\ShapesProgram.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Unit-Tests.deps.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Unit-Tests.runtimeconfig.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Unit-Tests.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Unit-Tests.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Unit-Tests.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.csproj.CopyComplete
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Unit-Tests\obj\Debug\netcoreapp2.2\Unit-Tests.pdb

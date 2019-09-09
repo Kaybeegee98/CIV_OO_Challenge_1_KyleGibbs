@@ -1,0 +1,9 @@
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.deps.json
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\bin\Debug\netcoreapp2.2\Challenge_Shapes_Library.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.dll
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.pdb
+C:\Users\kaybe\Documents\GitHub\CIV_OO_Challenge_1\Challenge_Shapes_Library\Challenge_Shapes_Library\obj\Debug\netcoreapp2.2\Challenge_Shapes_Library.csprojAssemblyReference.cache
